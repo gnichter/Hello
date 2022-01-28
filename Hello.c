@@ -1,5 +1,5 @@
 /**
- * Author: Grant Nichter 
+ * Author: Grant Nichter
  *         gnichter2@huskers.unl.edu
  * Date: 2020/01/28
  *
@@ -13,6 +13,9 @@ int main(int argc, char **argv) {
 
   printf("Grant Nichter!!!\n");
   printf("Computer Engineering :D\n");
+
+  printf("Jonah Nathan!\n");
+  printf("Computer Engineering :p\n");
 
   return 0;
 }
